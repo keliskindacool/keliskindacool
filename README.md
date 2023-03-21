@@ -3,7 +3,7 @@
 *i post whatever i feel like posting here*
 
 
-##Languages I am studying
+## Languages I am studying
 
 1. Python
 2. Rust
