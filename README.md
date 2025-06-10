@@ -15,3 +15,6 @@
 - cybersecurity and then some
 - just programming in general
 - linux
+
+## cat
+![silly kitty!](https://i1.sndcdn.com/artworks-zyYqA8D0BdfuyH28-WeeHrw-t1080x1080.jpg)
