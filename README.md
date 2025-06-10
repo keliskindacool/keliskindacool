@@ -5,11 +5,13 @@
 
 ## Languages I am studying
 
-1. Python
-2. C++
+1. C++
+2. Python
 3. C#
 
 **i originally wanted to study x86 assembly, but then i remembered that i'm not a masochist**
+
+**also. maybe i'll still study rust? i dunno, i'm very focused on c++ as of currently**
 
 ## Areas of interest
 - cybersecurity and then some
