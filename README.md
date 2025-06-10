@@ -6,7 +6,12 @@
 ## Languages I am studying
 
 1. Python
-2. Rust
-3. C++
-4. Bash
-5. Assembly (NASM)
+2. C++
+3. C#
+
+**i originally wanted to study x86 assembly, but then i remembered that i'm not a masochist**
+
+## Areas of interest
+- cybersecurity and then some
+- just programming in general
+- linux
